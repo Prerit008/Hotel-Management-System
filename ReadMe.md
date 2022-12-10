@@ -25,21 +25,21 @@ Then, you can use the `checkAvailability` and `bookRoom` methods to check the av
 room = input("Enter the name of the room: ")<br>
 availability = hotel.checkAvailability(room)<br>
 if availability == None:<br>
-print("Sorry, this room does not exist in our hotel.")<br>
+    print("Sorry, this room does not exist in our hotel.")<br>
 elif availability:<br>
-print("This room is available.")<br>
+    print("This room is available.")<br>
 else:<br>
-print("Sorry, this room is not available.")<br>
+    print("Sorry, this room is not available.")<br>
 
 ### Book a room
 room = input("Enter the name of the room you would like to book: ")<br>
 booking = hotel.bookRoom(room)<br>
 if booking == None:<br>
-print("Sorry, this room does not exist in our hotel.")<br>
+    print("Sorry, this room does not exist in our hotel.")<br>
 elif booking:<br>
-print("Congratulations, your booking was successful!")<br>
+    print("Congratulations, your booking was successful!")<br>
 else:<br>
-print("Sorry, this room is not available.")<br>
+    print("Sorry, this room is not available.")<br>
 
 
 ## License
