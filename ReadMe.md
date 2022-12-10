@@ -45,9 +45,15 @@ else:<br>
     print("Sorry, this room is not available.")<br>
 
 ```
-## Output
-![Console Screenshot](https://github.com/Prerit008/Hotel-Management-System/blob/main/GitHub-Hotel-Management-System%20_Prerit008.png?raw=true)
+## Console Output
 
+```ruby
+ROOMS IN THE HOTEL:
+ Room 1
+ Room 2
+ Room 3
+Enter the name of the room:
+```
 ## License
 
 This program is licensed under the [MIT License](/LICENSE).
