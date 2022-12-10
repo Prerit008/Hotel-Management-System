@@ -45,6 +45,9 @@ else:<br>
     print("Sorry, this room is not available.")<br>
 
 ```
+## Output
+![Console Screenshot](https://github.com/Prerit008/Hotel-Management-System/blob/main/GitHub-Hotel-Management-System%20_Prerit008.png?raw=true)
+
 ## License
 
 This program is licensed under the [MIT License](/LICENSE).
